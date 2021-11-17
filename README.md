@@ -1,5 +1,6 @@
 # Winterschwimmen 2021
 
+17.11.2021 Weitmannsee, 7°C, 11m<br>
 10.11.2021 Weitmannsee, 8°C, 10m<br>
 03.11.2021 Weitmannsee, 9°C, 10m<br>
 27.10.2021 Weitmannsee, 11°C, 10m<br>
