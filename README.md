@@ -1,5 +1,7 @@
 # Winterschwimmen 2021
 
+08.12.2021 Kuhsee, 3°C, 5m<br>
+04.12.2021 Kuhsee, 4°C, 6m<br>
 01.12.2021 Kuhsee, 5°C, 5m<br>
 24.11.2021 Weitmannsee, 5°C, 11m<br>
 17.11.2021 Weitmannsee, 7°C, 11m<br>
