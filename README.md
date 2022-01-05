@@ -1,5 +1,7 @@
 # Winterschwimmen 2021
 
+04.01.2022 Kuhsee, 7°C, 7m<br>
+22.12.2021 Kuhsee, 2°C, 30s<br>
 08.12.2021 Kuhsee, 3°C, 5m<br>
 04.12.2021 Kuhsee, 4°C, 6m<br>
 01.12.2021 Kuhsee, 5°C, 5m<br>
