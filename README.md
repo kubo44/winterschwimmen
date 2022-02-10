@@ -1,5 +1,9 @@
 # Winterschwimmen 2021
 
+10.02.2022 Weitmannsee, 5°C, 10m<br>
+02.02.2022 Kuhsee, 5°C<br>
+26.01.2022 Kuhsee, 2°C<br>
+12.01.2022 Kuhsee<br>
 06.01.2022 Kuhsee, 6°C, 9m<br>
 04.01.2022 Kuhsee, 7°C, 7m<br>
 22.12.2021 Kuhsee, 2°C, 30s<br>
