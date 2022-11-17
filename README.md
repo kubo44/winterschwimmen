@@ -1,5 +1,6 @@
 # Winterschwimmen 2021/2022
 
+17.11.2022 Weitmannsee, 9,7°C, 5m<br>
 10.11.2022 Weitmannsee, 12°C, 5m<br>
 11.05.2022 Weitmannsee, 19°C, 25m<br>
 27.04.2022 Kuhsee<br>
