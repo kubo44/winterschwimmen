@@ -1,5 +1,6 @@
 # Winterschwimmen 2021/2022
 
+30.11.2022 Weitmannsee, 5,5°C, 3m (with Ania)<br>
 17.11.2022 Weitmannsee, 9,7°C, 5m<br>
 10.11.2022 Weitmannsee, 12°C, 5m<br>
 11.05.2022 Weitmannsee, 19°C, 25m<br>
