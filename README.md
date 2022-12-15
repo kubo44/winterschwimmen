@@ -1,4 +1,4 @@
-# Winterschwimmen 2021/2022
+# Winterschwimmen
 
 15.12.2022 Kuhsee, 4,9°C, 2m (Ania & Uli)<br>
 07.12.2022 Weitmannsee, 5°C, 4m (with Ania)<br>
