@@ -1,5 +1,9 @@
 # Winterschwimmen
 
+18.01.2023 Kuhsee, 4,5°C, 8m (A&U)<br>
+11.01.2023 Kuhsee, 5,5°C, 8m (U)<br>
+06.01.2023 Weitmannsee, 5,5°C, 8m (A&U)<br>
+31.12.2022 Duchonka, 2°C, 0.5m<br>
 15.12.2022 Kuhsee, 4,9°C, 2m (A&U)<br>
 07.12.2022 Weitmannsee, 5°C, 4m (A)<br>
 30.11.2022 Weitmannsee, 5,5°C, 3m (A)<br>
