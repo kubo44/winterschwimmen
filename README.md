@@ -1,5 +1,7 @@
 # Winterschwimmen
 
+01.03.2023 Kuhsee 6.6°C, 5m (U)<br>
+22.02.2023 Kuhsee 6.4°C, 5m (A&U)<br>
 15.02.2023 Kuhsee 4.6°C, 4m (U)<br>
 28.01.2023 Donau, Neuburg 3.6°C 260m<br>
 25.01.2023 Kuhsee (A&U)<br>
